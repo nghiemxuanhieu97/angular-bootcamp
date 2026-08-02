@@ -49,16 +49,26 @@ JavaScript Foundation
 │   └── Temporal Dead Zone 🟡
 │
 ├── Angular Class Fields ✅
-└── Functions ✅
-    ├── Declaration ✅
-    ├── Invocation ✅
-    ├── Parameter ✅
-    ├── Argument ✅
-    ├── Return Value ✅
-    ├── undefined return ✅
-    ├── Function Decomposition ✅
-    ├── Single Responsibility ✅
-    ├── First-class Function 🟡
-    ├── Execution Context 🟡
-    └── Call Stack 🟡
+│
+├── Functions ✅
+│   ├── Declaration ✅
+│   ├── Invocation ✅
+│   ├── Parameter ✅
+│   ├── Argument ✅
+│   ├── Return Value ✅
+│   ├── undefined return ✅
+│   ├── Function Decomposition ✅
+│   ├── Single Responsibility ✅
+│   ├── First-class Function 🟡
+│   ├── Execution Context 🟡
+│   └── Call Stack 🟡
+│
+└── Objects ✅
+    ├── Property ✅
+    ├── Property Access ✅
+    ├── Add/Delete Property ✅
+    ├── Java vs JavaScript Object ✅
+    ├── Object Reference 🟡
+    ├── Deep/Shallow Copy 🟡
+    └── Prototype 🟡
 ```
