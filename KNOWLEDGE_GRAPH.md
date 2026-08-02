@@ -27,3 +27,26 @@ Frontend Foundation
 
 - ✅ Đã hiểu ở mức cần thiết hiện tại.
 - 🟡 Đã được nhắc tới nhưng chưa học chính thức.
+
+## JavaScript Foundation
+
+```text
+JavaScript Foundation
+│
+├── Variables ✅
+│   ├── Declaration ✅
+│   ├── Assignment ✅
+│   ├── Initialization ✅
+│   ├── Reassignment ✅
+│   ├── undefined ✅
+│   ├── var ✅
+│   ├── let ✅
+│   ├── const ✅
+│   ├── Block Scope ✅
+│   ├── Strict Mode 🟡
+│   ├── Object Reference 🟡
+│   ├── Hoisting 🟡
+│   └── Temporal Dead Zone 🟡
+│
+└── Angular Class Fields ✅
+```

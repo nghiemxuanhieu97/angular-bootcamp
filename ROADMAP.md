@@ -3,7 +3,7 @@
 ## Level 0 - JavaScript Foundation
 
 - [x] Lesson 00 - Browser, JavaScript and Angular
-- [ ] Lesson 01 - Variables
+- [x] Lesson 01 - Variables
 - [ ] Lesson 02 - Functions
 - [ ] Lesson 03 - Objects
 - [ ] Lesson 04 - Arrays
