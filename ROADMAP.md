@@ -4,7 +4,7 @@
 
 - [x] Lesson 00 - Browser, JavaScript and Angular
 - [x] Lesson 01 - Variables
-- [ ] Lesson 02 - Functions
+- [x] Lesson 02 - Functions
 - [ ] Lesson 03 - Objects
 - [ ] Lesson 04 - Arrays
 - [ ] Lesson 05 - Value vs Reference
