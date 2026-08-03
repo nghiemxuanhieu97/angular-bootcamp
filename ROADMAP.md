@@ -8,4 +8,5 @@
 - [x] Lesson 03 - Objects
 - [x] Lesson 04 - Arrays
 - [x] Lesson 05 - Destructuring
-- [ ] Lesson 06 - Spread & Rest
+- [x] Lesson 06 - Spread & Rest
+- [ ] Lesson 07 - Modules

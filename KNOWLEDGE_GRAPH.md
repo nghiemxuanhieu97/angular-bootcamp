@@ -78,15 +78,27 @@ JavaScript Foundation
 │   ├── Array vs Object ✅
 │   └── Index vs id ✅
 │
-└── Destructuring ✅
-    ├── Object Destructuring ✅
-    ├── Array Destructuring ✅
-    ├── Skip Array Elements ✅
-    ├── Property Name Matching ✅
-    ├── Missing Property → undefined ✅
-    ├── Rename 🟡
-    ├── Default Value 🟡
-    ├── Nested Destructuring 🟡
-    ├── Function Parameter Destructuring 🟡
-    └── Rest Destructuring 🟡
+├── Destructuring ✅
+│   ├── Object Destructuring ✅
+│   ├── Array Destructuring ✅
+│   ├── Skip Array Elements ✅
+│   ├── Property Name Matching ✅
+│   ├── Missing Property → undefined ✅
+│   ├── Rename 🟡
+│   ├── Default Value 🟡
+│   ├── Nested Destructuring 🟡
+│   ├── Function Parameter Destructuring 🟡
+│   └── Rest Destructuring 🟡
+│
+└── Spread & Rest ✅
+    ├── Spread Array ✅
+    ├── Merge Arrays ✅
+    ├── Copy Array ✅
+    ├── Rest Parameter ✅
+    ├── Rest → Array ✅
+    ├── Java Varargs Comparison ✅
+    ├── Spread Object 🟡
+    ├── Shallow Copy 🟡
+    ├── Deep Copy 🟡
+    └── Object Rest Destructuring 🟡
 ```
