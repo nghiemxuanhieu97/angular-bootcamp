@@ -63,12 +63,18 @@ JavaScript Foundation
 │   ├── Execution Context 🟡
 │   └── Call Stack 🟡
 │
-└── Objects ✅
-    ├── Property ✅
-    ├── Property Access ✅
-    ├── Add/Delete Property ✅
-    ├── Java vs JavaScript Object ✅
-    ├── Object Reference 🟡
-    ├── Deep/Shallow Copy 🟡
-    └── Prototype 🟡
+├── Objects ✅
+│   ├── Property ✅
+│   ├── Property Access ✅
+│   ├── Add/Delete Property ✅
+│   ├── Java vs JavaScript Object ✅
+│   ├── Object Reference 🟡
+│   ├── Deep/Shallow Copy 🟡
+│   └── Prototype 🟡
+│  
+├── Arrays ✅
+│   ├── Index ✅
+│   ├── push/pop ✅
+│   ├── Array vs Object ✅
+│   └── Index vs id ✅
 ```

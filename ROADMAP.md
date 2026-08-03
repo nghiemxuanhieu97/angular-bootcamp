@@ -6,7 +6,7 @@
 - [x] Lesson 01 - Variables
 - [x] Lesson 02 - Functions
 - [x] Lesson 03 - Objects
-- [ ] Lesson 04 - Arrays
+- [x] Lesson 04 - Arrays
 - [ ] Lesson 05 - Value vs Reference
 - [ ] Lesson 06 - Destructuring
 - [ ] Lesson 07 - Spread and Rest
