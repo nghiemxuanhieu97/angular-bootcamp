@@ -77,4 +77,16 @@ JavaScript Foundation
 │   ├── push/pop ✅
 │   ├── Array vs Object ✅
 │   └── Index vs id ✅
+│
+└── Destructuring ✅
+    ├── Object Destructuring ✅
+    ├── Array Destructuring ✅
+    ├── Skip Array Elements ✅
+    ├── Property Name Matching ✅
+    ├── Missing Property → undefined ✅
+    ├── Rename 🟡
+    ├── Default Value 🟡
+    ├── Nested Destructuring 🟡
+    ├── Function Parameter Destructuring 🟡
+    └── Rest Destructuring 🟡
 ```

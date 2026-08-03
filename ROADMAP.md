@@ -7,14 +7,5 @@
 - [x] Lesson 02 - Functions
 - [x] Lesson 03 - Objects
 - [x] Lesson 04 - Arrays
-- [ ] Lesson 05 - Value vs Reference
-- [ ] Lesson 06 - Destructuring
-- [ ] Lesson 07 - Spread and Rest
-- [ ] Lesson 08 - Modules
-- [ ] Lesson 09 - Promise
-- [ ] Lesson 10 - Async Await
-- [ ] Lesson 11 - Array Methods
-- [ ] Lesson 12 - Events
-- [ ] Lesson 13 - DOM
-- [ ] Lesson 14 - Browser Rendering
-- [ ] Lesson 15 - JavaScript Mini Project
+- [x] Lesson 05 - Destructuring
+- [ ] Lesson 06 - Spread & Rest
