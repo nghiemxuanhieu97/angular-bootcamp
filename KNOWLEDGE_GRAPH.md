@@ -129,13 +129,30 @@ JavaScript Foundation
 │   ├── Closure 🟡
 │   └── Higher-order Function 🟡
 │
-└── Callback ✅
-    ├── Named Callback ✅
-    ├── Anonymous Callback ✅
-    ├── Arrow Function Callback ✅
-    ├── Function Reference ✅
-    ├── Function Invocation ✅
-    ├── Array Method Callback ✅
-    ├── Event Callback ✅
-    └── Timer Callback ✅
+├── Callback ✅
+│   ├── Named Callback ✅
+│   ├── Anonymous Callback ✅
+│   ├── Arrow Function Callback ✅
+│   ├── Function Reference ✅
+│   ├── Function Invocation ✅
+│   ├── Array Method Callback ✅
+│   ├── Event Callback ✅
+│   └── Timer Callback ✅
+│
+└── Promise ✅
+    ├── Pending ✅
+    ├── Fulfilled ✅
+    ├── Rejected ✅
+    ├── then(callback) ✅
+    ├── catch(callback) ✅
+    ├── Async Result ✅
+    ├── Non-blocking UI ✅
+    ├── Promise Constructor 🟡
+    ├── resolve() 🟡
+    ├── reject() 🟡
+    ├── finally() 🟡
+    ├── Promise.all() 🟡
+    ├── Promise.race() 🟡
+    ├── Async / Await 🟡
+    └── Microtask Queue 🟡
 ```
