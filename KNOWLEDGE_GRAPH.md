@@ -90,15 +90,29 @@ JavaScript Foundation
 │   ├── Function Parameter Destructuring 🟡
 │   └── Rest Destructuring 🟡
 │
-└── Spread & Rest ✅
-    ├── Spread Array ✅
-    ├── Merge Arrays ✅
-    ├── Copy Array ✅
-    ├── Rest Parameter ✅
-    ├── Rest → Array ✅
-    ├── Java Varargs Comparison ✅
-    ├── Spread Object 🟡
-    ├── Shallow Copy 🟡
-    ├── Deep Copy 🟡
-    └── Object Rest Destructuring 🟡
+├── Spread & Rest ✅
+│   ├── Spread Array ✅
+│   ├── Merge Arrays ✅
+│   ├── Copy Array ✅
+│   ├── Rest Parameter ✅
+│   ├── Rest → Array ✅
+│   ├── Java Varargs Comparison ✅
+│   ├── Spread Object 🟡
+│   ├── Shallow Copy 🟡
+│   ├── Deep Copy 🟡
+│   └── Object Rest Destructuring 🟡
+│
+└── Modules ✅
+    ├── File as Module ✅
+    ├── Module Boundary ✅
+    ├── Export ✅
+    ├── Import ✅
+    ├── Named Export ✅
+    ├── Default Export ✅
+    ├── Many Named + One Default ✅
+    ├── Angular Imports ✅
+    ├── Circular Dependency 🟡
+    ├── Dynamic Import 🟡
+    ├── Bundler 🟡
+    └── Tree Shaking 🟡
 ```

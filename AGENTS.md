@@ -119,5 +119,5 @@ At the end, include:
 - Do not overwrite completed lessons without explaining the changes.
 - Do not create extra files.
 - Do not rename lessons without explicit permission.
-- Update ROADMAP.md and KNOWLEDGE_GRAPH.md only when lesson status or knowledge coverage changes.
+- Update KNOWLEDGE_GRAPH.md only when lesson status or knowledge coverage changes.
 - Show a summary of changed files after completing a task.
