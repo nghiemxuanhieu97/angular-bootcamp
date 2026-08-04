@@ -102,17 +102,30 @@ JavaScript Foundation
 │   ├── Deep Copy 🟡
 │   └── Object Rest Destructuring 🟡
 │
-└── Modules ✅
-    ├── File as Module ✅
-    ├── Module Boundary ✅
-    ├── Export ✅
-    ├── Import ✅
-    ├── Named Export ✅
-    ├── Default Export ✅
-    ├── Many Named + One Default ✅
-    ├── Angular Imports ✅
-    ├── Circular Dependency 🟡
-    ├── Dynamic Import 🟡
-    ├── Bundler 🟡
-    └── Tree Shaking 🟡
+├── Modules ✅
+│   ├── File as Module ✅
+│   ├── Module Boundary ✅
+│   ├── Export ✅
+│   ├── Import ✅
+│   ├── Named Export ✅
+│   ├── Default Export ✅
+│   ├── Many Named + One Default ✅
+│   ├── Angular Imports ✅
+│   ├── Circular Dependency 🟡
+│   ├── Dynamic Import 🟡
+│   ├── Bundler 🟡
+│   └── Tree Shaking 🟡
+│
+└── First-class Functions & Arrow Functions ✅
+    ├── Function as Value ✅
+    ├── Function Reference vs Invocation ✅
+    ├── Assign Function to Variable ✅
+    ├── Pass Function as Argument ✅
+    ├── Return Function ✅
+    ├── Arrow Function Syntax ✅
+    ├── Implicit Return ✅
+    ├── Callback Foundation ✅
+    ├── Lexical this 🟡
+    ├── Closure 🟡
+    └── Higher-order Function 🟡
 ```
