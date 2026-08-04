@@ -33,8 +33,8 @@ Goal: Build a solid JavaScript foundation for Angular.
 |08|First-class Functions & Arrow Functions|
 |09|Callback|
 |10|Promise|
-|11|Event Loop|
-|12|Async / Await|
+|11|Async/Await|
+|12|Event Loop|
 |13|Array Methods|
 |14|DOM & Events|
 |15|JavaScript Mini Project|

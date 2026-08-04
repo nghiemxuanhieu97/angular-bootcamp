@@ -139,25 +139,38 @@ JavaScript Foundation
 │   ├── Event Callback ✅
 │   └── Timer Callback ✅
 │
-└── Promise ✅
-    ├── Pending ✅
-    ├── Fulfilled ✅
-    ├── Rejected ✅
-    ├── then(callback) ✅
-    ├── catch(callback) ✅
-    ├── Async Result ✅
-    ├── Non-blocking UI ✅
-    ├── Promise Constructor 🟡
-    ├── resolve() 🟡
-    ├── reject() 🟡
-    ├── finally() 🟡
-    ├── Promise.all() 🟡
-    ├── Promise.race() 🟡
-    ├── Async / Await ✅
-    │   ├── async Function ✅
-    │   ├── await Promise Result ✅
-    │   ├── async Function Returns Promise ✅
-    │   ├── try/catch Error Handling ✅
-    │   └── Promise vs Async / Await ✅
-    └── Microtask Queue 🟡
+├── Promise ✅
+│   ├── Pending ✅
+│   ├── Fulfilled ✅
+│   ├── Rejected ✅
+│   ├── then(callback) ✅
+│   ├── catch(callback) ✅
+│   ├── Async Result ✅
+│   ├── Non-blocking UI ✅
+│   ├── Promise Constructor 🟡
+│   ├── resolve() 🟡
+│   ├── reject() 🟡
+│   ├── finally() 🟡
+│   ├── Promise.all() 🟡
+│   ├── Promise.race() 🟡
+│   ├── Async / Await ✅
+│   │   ├── async Function ✅
+│   │   ├── await Promise Result ✅
+│   │   ├── async Function Returns Promise ✅
+│   │   ├── try/catch Error Handling ✅
+│   │   └── Promise vs Async / Await ✅
+│   └── Microtask Queue 🟡
+│
+└── Event Loop ✅
+    ├── Call Stack ✅
+    ├── Browser / Web APIs ✅
+    ├── Callback Queue ✅
+    ├── Callback to Call Stack ✅
+    ├── Non-blocking JavaScript ✅
+    ├── Timer and Event Callbacks ✅
+    ├── Promise and Event Loop ✅
+    ├── await pauses current function ✅
+    ├── Task Queue 🟡
+    ├── Microtask Queue 🟡
+    └── Promise before setTimeout 🟡
 ```
