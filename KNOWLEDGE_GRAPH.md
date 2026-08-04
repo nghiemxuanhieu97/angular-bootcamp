@@ -153,6 +153,11 @@ JavaScript Foundation
     ├── finally() 🟡
     ├── Promise.all() 🟡
     ├── Promise.race() 🟡
-    ├── Async / Await 🟡
+    ├── Async / Await ✅
+    │   ├── async Function ✅
+    │   ├── await Promise Result ✅
+    │   ├── async Function Returns Promise ✅
+    │   ├── try/catch Error Handling ✅
+    │   └── Promise vs Async / Await ✅
     └── Microtask Queue 🟡
 ```
