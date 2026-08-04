@@ -1,3 +1,9 @@
+# 📚 Level 0 – JavaScript Foundation
+
+# Lesson 03 – Objects
+
+---
+
 # 📖 Theory
 
 ## 🎯 Problem

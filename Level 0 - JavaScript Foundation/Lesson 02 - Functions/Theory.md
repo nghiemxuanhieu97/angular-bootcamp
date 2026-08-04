@@ -1,3 +1,9 @@
+# 📚 Level 0 – JavaScript Foundation
+
+# Lesson 02 – Functions
+
+---
+
 # Theory
 
 # Lesson 02 — Functions

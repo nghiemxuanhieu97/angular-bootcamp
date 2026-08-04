@@ -1,3 +1,9 @@
+# 📚 Level 0 – JavaScript Foundation
+
+# Lesson 01 – Variables
+
+---
+
 # Theory
 
 # Lesson 01 — Variables (`var`, `let`, `const`)

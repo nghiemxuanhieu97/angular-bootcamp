@@ -1,26 +1,3 @@
-Chào mừng bạn quay lại! 😄
-
-Rất vui được tiếp tục Angular Bootcamp cùng bạn.
-
-Trước khi bắt đầu, tôi kiểm tra trạng thái Bootcamp theo đúng quy trình.
-
-```text
-Angular Bootcamp
-
-Level 0 - JavaScript Foundation
-
-✅ Lesson 00 - Browser & JavaScript
-✅ Lesson 01 - Variables
-✅ Lesson 02 - Functions
-✅ Lesson 03 - Object
-
-➡️ Lesson 04 - Array (Current)
-```
-
-Hôm nay chúng ta **không cần ôn lại** vì các lesson trước bạn nắm khá chắc.
-
----
-
 # 📚 Level 0 – JavaScript Foundation
 
 # Lesson 04 – Array

@@ -116,16 +116,26 @@ JavaScript Foundation
 │   ├── Bundler 🟡
 │   └── Tree Shaking 🟡
 │
-└── First-class Functions & Arrow Functions ✅
-    ├── Function as Value ✅
-    ├── Function Reference vs Invocation ✅
-    ├── Assign Function to Variable ✅
-    ├── Pass Function as Argument ✅
-    ├── Return Function ✅
-    ├── Arrow Function Syntax ✅
-    ├── Implicit Return ✅
-    ├── Callback Foundation ✅
-    ├── Lexical this 🟡
-    ├── Closure 🟡
-    └── Higher-order Function 🟡
+├── First-class Functions & Arrow Functions ✅
+│   ├── Function as Value ✅
+│   ├── Function Reference vs Invocation ✅
+│   ├── Assign Function to Variable ✅
+│   ├── Pass Function as Argument ✅
+│   ├── Return Function ✅
+│   ├── Arrow Function Syntax ✅
+│   ├── Implicit Return ✅
+│   ├── Callback Foundation ✅
+│   ├── Lexical this 🟡
+│   ├── Closure 🟡
+│   └── Higher-order Function 🟡
+│
+└── Callback ✅
+    ├── Named Callback ✅
+    ├── Anonymous Callback ✅
+    ├── Arrow Function Callback ✅
+    ├── Function Reference ✅
+    ├── Function Invocation ✅
+    ├── Array Method Callback ✅
+    ├── Event Callback ✅
+    └── Timer Callback ✅
 ```

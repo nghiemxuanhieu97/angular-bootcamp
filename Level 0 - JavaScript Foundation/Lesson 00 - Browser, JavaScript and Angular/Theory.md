@@ -1,3 +1,9 @@
+# 📚 Level 0 – JavaScript Foundation
+
+# Lesson 00 – Browser, JavaScript and Angular
+
+---
+
 # Theory
 
 # Lesson 00 — Browser, JavaScript and Angular
