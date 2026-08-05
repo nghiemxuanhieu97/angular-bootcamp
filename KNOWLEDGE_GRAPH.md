@@ -76,7 +76,18 @@ JavaScript Foundation
 │   ├── Index ✅
 │   ├── push/pop ✅
 │   ├── Array vs Object ✅
-│   └── Index vs id ✅
+│   ├── Index vs id ✅
+│   └── Array Methods ✅
+│       ├── forEach() ✅
+│       ├── map() ✅
+│       ├── filter() ✅
+│       ├── find() ✅
+│       ├── reduce() ✅
+│       ├── Callback-based Methods ✅
+│       ├── Non-mutating Transformations ✅
+│       ├── some() 🟡
+│       ├── every() 🟡
+│       └── sort() 🟡
 │
 ├── Destructuring ✅
 │   ├── Object Destructuring ✅
