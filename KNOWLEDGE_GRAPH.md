@@ -172,16 +172,34 @@ JavaScript Foundation
 │   │   └── Promise vs Async / Await ✅
 │   └── Microtask Queue 🟡
 │
-└── Event Loop ✅
-    ├── Call Stack ✅
-    ├── Browser / Web APIs ✅
-    ├── Callback Queue ✅
-    ├── Callback to Call Stack ✅
-    ├── Non-blocking JavaScript ✅
-    ├── Timer and Event Callbacks ✅
-    ├── Promise and Event Loop ✅
-    ├── await pauses current function ✅
-    ├── Task Queue 🟡
-    ├── Microtask Queue 🟡
-    └── Promise before setTimeout 🟡
+├── Event Loop ✅
+│   ├── Call Stack ✅
+│   ├── Browser / Web APIs ✅
+│   ├── Callback Queue ✅
+│   ├── Callback to Call Stack ✅
+│   ├── Non-blocking JavaScript ✅
+│   ├── Timer and Event Callbacks ✅
+│   ├── Promise and Event Loop ✅
+│   ├── await pauses current function ✅
+│   ├── Task Queue 🟡
+│   ├── Microtask Queue 🟡
+│   └── Promise before setTimeout 🟡
+│
+└── DOM & Events ✅
+    ├── DOM Tree ✅
+    ├── HTML to DOM Objects ✅
+    ├── document.getElementById() ✅
+    ├── DOM Object Access ✅
+    ├── textContent and DOM Mutation ✅
+    ├── Browser Event ✅
+    ├── addEventListener() ✅
+    ├── Click Event ✅
+    ├── Input Event ✅
+    ├── Event Callback ✅
+    ├── Angular Event Binding ✅
+    ├── querySelector() 🟡
+    ├── querySelectorAll() 🟡
+    ├── DOM Rendering 🟡
+    ├── Virtual DOM 🟡
+    └── Angular Change Detection 🟡
 ```
