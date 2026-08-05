@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Highlight Selected Employee</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 600px; margin: 40px auto; padding: 0 16px; }
+        ul { padding: 0; }
+        li { cursor: pointer; list-style: none; margin-bottom: 8px; padding: 10px; border: 1px solid #ccc; }
+        li:hover { background: #eee; }
+        li.selected { background: yellow; }
+        #employeeDetail { margin-top: 20px; padding: 16px; border: 1px solid #ccc; }
+    </style>
+</head>
+<body>
+    <h1>Employees</h1>
+    <ul id="employeeList"></ul>
+    <div id="employeeDetail">Select an employee to view details.</div>
+    <script src="app.js"></script>
+</body>
+</html>
