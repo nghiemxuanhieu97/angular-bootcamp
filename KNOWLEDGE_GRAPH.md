@@ -209,16 +209,31 @@ JavaScript Foundation
 ```text
 TypeScript Foundation
 │
-└── Why TypeScript ✅
-    ├── JavaScript + Type System ✅
-    ├── JavaScript Superset ✅
-    ├── Static Type Checking ✅
-    ├── Compile Time Error Detection ✅
-    ├── Build to JavaScript ✅
-    ├── Browser Runs JavaScript ✅
-    ├── Angular Type Safety ✅
-    ├── Interface 🟡
-    ├── Type Alias 🟡
-    ├── Generics 🟡
-    └── Utility Types 🟡
+├── Why TypeScript ✅
+│   ├── JavaScript + Type System ✅
+│   ├── JavaScript Superset ✅
+│   ├── Static Type Checking ✅
+│   ├── Compile Time Error Detection ✅
+│   ├── Build to JavaScript ✅
+│   ├── Browser Runs JavaScript ✅
+│   ├── Angular Type Safety ✅
+│   ├── Interface 🟡
+│   ├── Type Alias 🟡
+│   ├── Generics 🟡
+│   └── Utility Types 🟡
+│
+└── The Basics ✅
+    ├── Type Annotation ✅
+    ├── Type Inference ✅
+    ├── Type Checking ✅
+    ├── string ✅
+    ├── number ✅
+    ├── boolean ✅
+    ├── Array Types ✅
+    ├── Object Type ✅
+    ├── Angular Type Inference ✅
+    ├── any 🟡
+    ├── unknown 🟡
+    ├── Union Type 🟡
+    └── Literal Type 🟡
 ```
