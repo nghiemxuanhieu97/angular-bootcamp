@@ -9,7 +9,7 @@ Frontend Foundation
 │   ├── Safari → JavaScriptCore ✅
 │   ├── HTML ✅
 │   ├── CSS ✅
-│   ├── DOM 🟡
+│   ├── DOM ✅
 │   ├── Events 🟡
 │   └── Rendering 🟡
 │
@@ -59,7 +59,7 @@ JavaScript Foundation
 │   ├── undefined return ✅
 │   ├── Function Decomposition ✅
 │   ├── Single Responsibility ✅
-│   ├── First-class Function 🟡
+│   ├── First-class Function ✅
 │   ├── Execution Context 🟡
 │   └── Call Stack 🟡
 │
@@ -202,4 +202,23 @@ JavaScript Foundation
     ├── DOM Rendering 🟡
     ├── Virtual DOM 🟡
     └── Angular Change Detection 🟡
+```
+
+## TypeScript Foundation
+
+```text
+TypeScript Foundation
+│
+└── Why TypeScript ✅
+    ├── JavaScript + Type System ✅
+    ├── JavaScript Superset ✅
+    ├── Static Type Checking ✅
+    ├── Compile Time Error Detection ✅
+    ├── Build to JavaScript ✅
+    ├── Browser Runs JavaScript ✅
+    ├── Angular Type Safety ✅
+    ├── Interface 🟡
+    ├── Type Alias 🟡
+    ├── Generics 🟡
+    └── Utility Types 🟡
 ```
